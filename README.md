@@ -1,5 +1,4 @@
 InTheFuture_android
 ===================
 
-Android applicaiton
-
+Android applicaiton by techlogics
