@@ -1,4 +1,4 @@
 InTheFuture_android
 ===================
 
-Android applicaiton by techlogics android team
+Android applicaiton by techlogics
